@@ -1,0 +1,3 @@
+rasterio==1.4.1
+numpy==2.2.4
+matplotlib
